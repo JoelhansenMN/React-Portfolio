@@ -1,3 +1,4 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom"
 import { useState } from 'react'
 import './App.css'
 
@@ -10,7 +11,12 @@ function App() {
   return (
 
      <div className='viewport'>
-      <About/>
+      <BrowserRouter>
+      <Header/>
+          <Routes>
+          <Route path="/" element={<About/>}/>
+          </Routes>
+      </BrowserRouter>
      </div>
     
   )
