@@ -1,0 +1,14 @@
+.about {
+  text-align: center; 
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+  font-weight: bold;
+  background-color: #e1e1e1;
+  color: #201319;
+}
+
+.profile {
+  height: 400;
+  width: 300px;
+  border-radius: 25px;
+}
