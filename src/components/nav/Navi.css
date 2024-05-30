@@ -1,11 +1,28 @@
 nav {
-  padding-top: 10px;
-  margin-right: 500px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 20px;
-  display: flex;
-  flex-direction: row;
-  gap: 2px;
-  text-decoration: none;
+  /* padding-top: 10px; */
+  /* margin-right: 500px; */
   
+  font-size:30px;
+  display: flex;
+  height: 50%;
+  flex-direction: row;
+  margin-right: 10px;
+  justify-content:end;
+ 
+}
+
+a {
+  color: #154c79;
+  text-decoration: none;
+  justify-content: space-around;
+  margin: 10px;
+  
+}
+
+.joel {
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+  
+
+
 }

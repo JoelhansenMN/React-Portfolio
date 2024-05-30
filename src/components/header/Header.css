@@ -1,18 +1,19 @@
-*{
+/* *{
   box-sizing: border-box;
   padding: 8px;
   margin: 0px;
-  }
+  } */
 
 .header {
   
-  position: fixed;
+  /* position:; */
   top: 0;
   left: 0;
   width: 100%;
+  height: 100px;
   /* Example background color */
   color: #e1e1e1; /* Example text color */
-  padding: 10px; /* Adjust padding as needed */
+  padding:0px; /* Adjust padding as needed */
   z-index: 1000;
   background-color: #b59f88 ;
 }
