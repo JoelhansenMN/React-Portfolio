@@ -1,37 +1,37 @@
 [
   {
     "name": "TekTok",
-    "image": "",
-    "link": "",
-    "github": ""
+    "image": "/projectImages/tektok.png",
+    "link": "https://tektok.onrender.com/",
+    "github": "https://github.com/rvbouu/tektok"
   },
 
   {
-    "name": "TekTok",
+    "name": "Hoop Stats",
+    "image": "/projectImages/hoopstats.png",
+    "link": "https://rvbouu.github.io/hoop-stats/",
+    "github": "https://github.com/rvbouu/hoop-stats"
+  },
+  {
+    "name": "Kanban Task Board",
+    "image": "/projectImages/taskboard1.png",
+    "link": "https://joelhansenmn.github.io/taskboard-assignment/",
+    "github": "https://github.com/JoelhansenMN/taskboard-assignment"
+  },
+  {
+    "name": "Note Taker",
+    "image": "/projectImages/notetaker.png",
+    "link": "https://note-taker-application-19mz.onrender.com/",
+    "github": "https://github.com/JoelhansenMN/note-taker-application"
+  },
+  {
+    "name": "",
     "image": "",
     "link": "",
     "github": ""
   },
   {
-    "name": "TekTok",
-    "image": "",
-    "link": "",
-    "github": ""
-  },
-  {
-    "name": "TekTok",
-    "image": "",
-    "link": "",
-    "github": ""
-  },
-  {
-    "name": "TekTok",
-    "image": "",
-    "link": "",
-    "github": ""
-  },
-  {
-    "name": "TekTok",
+    "name": "",
     "image": "",
     "link": "",
     "github": ""
