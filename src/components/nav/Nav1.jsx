@@ -1,4 +1,4 @@
-
+import { NavLink } from 'react-router-dom';
 import './Navi.css';
 
 
@@ -9,10 +9,10 @@ export default function Nav1() {
     <>
       <h1 className='joel'>Joel Hansen</h1>
       <nav className="navigation">
-        <a href=''>About Me</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#pricing">Resume</a>
-        <a href="#pricing">Contact</a>
+        <NavLink to = '/'>About Me</NavLink>
+        <NavLink to = '/portfolio'>Portfolio</NavLink>
+        <NavLink to = '/resume'>Resume</NavLink>
+        <NavLink to = '/contact'>Contact</NavLink>
       </nav>
 
     </>

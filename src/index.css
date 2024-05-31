@@ -1,5 +1,11 @@
 body {
   font-family: "Roboto", sans-serif;
+  height:100%;
+  background-color: #e1e1e1;
+}
+
+p {
+  margin: 10px;
 }
 
 
