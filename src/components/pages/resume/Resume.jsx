@@ -5,18 +5,16 @@ export default function Resume() {
   return (
 
     <>
-      <section>
-        <h2>Eduction</h2>
-          <p>University of Minnesota</p>
-          <p> University</p>
-          <p></p>
-
-      </section>
-      <aside>
+     <h2 className='resumeTitle'>Resume</h2>
+      {/* <button onClick={}>Click Here to Read My Resume</button> */}
+      <ul></ul>
+      <li>
+        <div></div>
 
 
+      </li>
 
-      </aside>
+  
 
 
 
