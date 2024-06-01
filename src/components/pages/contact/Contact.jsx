@@ -40,7 +40,7 @@ export default function Contact() {
         </label><textarea name="message" value={formData.message} onChange={handleChange} />
         <button type="submit">Submit</button>
 
-        <p>Contact Me: joelhansen22@gmail.com</p>
+        <p className='contactMe'>Contact Me: joelhansen22@gmail.com</p>
       </form>
     </div>
   )

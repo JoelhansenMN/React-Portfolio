@@ -3,17 +3,69 @@
 }
 
 .submitForm {
-  margin: 200px;
-  border: 2px solid #75abd2;
-  display:flex;
+  margin: 50px;
+  margin-inline: 200px;
+  border: 2px solid #1e679c;
+  border-radius: 50px;
+  display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #b59f88 ;
+  background-color: #b59f88;
+  box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+  padding: 20px;
 
 }
 
 
-
 .contactLabel {
-  font-size: 20px;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: inset 6px 6px 6px #a6c7e7, inset -6px -6px 6px white;
+  background: #abbac5;
+  margin: 10px;
+
+}
+
+button {
+  margin-top: 20px;
+  background: #75abd2;
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 900;
+  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+  transition: 0.5s;
+}
+
+button:hover {
+  box-shadow: none;
+}
+
+input {
+  background: #ecf0f3;
+  padding: 20px;
+  padding-left: 20px;
+  height: 50px;
+  font-size: 14px;
+  border-radius: 50px;
+  box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+}
+
+textarea {
+  background: #ecf0f3;
+  padding: 10px;
+  padding-left: 20px;
+  height: 50px;
+  font-size: 14px;
+  border-radius: 50px;
+  box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+}
+
+
+.contactMe {
+  padding: 20px;
+  color: white;
+  font-size: 30px;
+  
 }
