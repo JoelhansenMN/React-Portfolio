@@ -25,16 +25,16 @@
     "github": "https://github.com/JoelhansenMN/note-taker-application"
   },
   {
-    "name": "",
-    "image": "",
-    "link": "",
-    "github": ""
+    "name": "PWA Text Editor",
+    "image": "/projectImages/text-editor.png",
+    "link": "https://pwa-homework-helper.onrender.com/",
+    "github": "https://github.com/JoelhansenMN/PWA-Homework-Helper"
   },
   {
-    "name": "",
-    "image": "",
-    "link": "",
-    "github": ""
+    "name": "Blog",
+    "image": "/projectImages/blog.png",
+    "link": "https://joelhansenmn.github.io/blog-project/",
+    "github": "https://github.com/JoelhansenMN/blog-project"
   }
 
 

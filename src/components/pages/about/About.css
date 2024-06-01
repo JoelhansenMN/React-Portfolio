@@ -9,3 +9,14 @@
   width: 300px;
   border-radius: 25px;
 }
+
+.aboutTitle {
+  font-size: 35px;
+  text-decoration: underline;
+  margin: 10px;
+}
+
+.aboutBody {
+  margin: 35px;
+  font-size: 20px;
+}

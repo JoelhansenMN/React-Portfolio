@@ -1,5 +1,5 @@
 import projects from '../../../assets/project.json'
-import Project from './Project'
+// import Project from './Project'
 import './Portfolio.css'
 
 export default function Portfolio (){

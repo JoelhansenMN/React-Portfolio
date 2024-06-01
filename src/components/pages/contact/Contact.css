@@ -1,0 +1,19 @@
+.contact {
+  min-height: calc(100vh - 200px);
+}
+
+.submitForm {
+  margin: 200px;
+  border: 2px solid #75abd2;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #b59f88 ;
+
+}
+
+
+
+.contactLabel {
+  font-size: 20px;
+}
