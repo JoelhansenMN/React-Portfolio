@@ -1,10 +1,57 @@
 .resume {
+  min-height: calc(100vh - 200px);
   text-align: center;
-  margin: 15px;
+  margin: 35px;
+
 }
 
-.resumeTitle {
 
-  font-size: 50px;
+.resumeTitle {
+  font-size: 65px;
   text-decoration: underline;
+  color: black
+}
+
+.resumeBtn {
+  margin: 35px;
+  background: #75abd2;
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: none;
+}
+
+.skills {
+  display: inline-flex;
+  font-size: 30px;
+  color: black;
+}
+
+.skill {
+  margin: 15px;
+ 
+}
+
+.FESkills {
+  text-decoration: underline;
+  margin-bottom: 25px;
+  
+}
+
+.BESkills {
+  text-decoration: underline;
+  margin-bottom: 25px;
+}
+.frontend {
+  margin: 75px;
+  
+}
+
+.backend {
+  margin: 75px;
+  
 }

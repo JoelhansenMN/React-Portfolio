@@ -1,7 +1,4 @@
 nav {
-  /* padding-top: 10px; */
-  /* margin-right: 500px; */
-  
   font-size:30px;
   display: flex;
   height: 50%;
@@ -11,7 +8,7 @@ nav {
  
 }
 
-a {
+.navigation a{
   color: #e1e1e1;
   text-decoration: none;
   justify-content: space-around;

@@ -1,23 +1,23 @@
 import projects from '../../../assets/project.json'
-// import Project from './Project'
+import Project from './Project'
 import './Portfolio.css'
 
-export default function Portfolio (){
+export default function Portfolio() {
 
-  return(
+  return (
+    <>
+    <h2 className='portfolioTitle'>Portfolio</h2>
     <section className='portfolio'>
-      <h2 className='portfolioTitle'>Portfolio</h2>
+      
       <div className='projects'>
         {projects.map((project, i) => (
-          <Project project={project} key={i}/>
+          <Project project={project} key={i} />
         ))}
-
-
-
       </div>
 
 
 
     </section>
+    </>
   )
 }

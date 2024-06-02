@@ -1,0 +1,50 @@
+.project {
+  /* min-height: calc(100vh - 200px); */
+  height: 250px;
+  width: 400px;
+  background-size: contain;
+  background-position: center;
+  object-fit: cover;
+  text-align: center;
+  border: 1px solid black
+}
+
+.projectCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+}
+
+.projects {
+  font-size: 25px;
+  /* margin: 20px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.projectName {
+  font-size: 45px;
+  /* margin: 20px; */
+  text-align: center;
+}
+
+.github {
+  display: flex;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.portfolio {}
+
+.portfolioTitle {
+  font-size: 65px;
+  text-decoration: underline;
+  /* margin: 30px; */
+  text-align: center;
+}
