@@ -12,4 +12,4 @@
   ## Links:
   [link to repo](https://github.com/JoelhansenMN/React-Portfolio)
 
-  [link to application on netlify]()
+  [link to application on netlify](https://joel-hansen.netlify.app/)
