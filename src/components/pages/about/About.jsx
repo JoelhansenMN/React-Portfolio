@@ -6,7 +6,7 @@ export default function About(){
 return(
 <>
   <section className='about'>
-    <img className = "profile" src="./public/adventure-hat.png" alt="profile picture" />
+    <img className = "profile" src="/adventure-hat.png" alt="profile picture" />
     <h1 className='aboutTitle'>About Me</h1>
       <p className='aboutBody'>Hello World!  My name is Joel Hansen and I build things for the web.  I am a recent graduate of the University of Minnesota's full stack web development bootcamp. Prior to this bootcamp I worked in the mental health profession as a therapist, consultant, trainer and program director.  I also have experience working in network engineering and sytems for companies such as Chiptole, Costco, and Hughesnet. I also hold a masters degree from the University of St. Thomas in St. Paul, MN. </p>
 
